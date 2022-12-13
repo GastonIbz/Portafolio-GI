@@ -35,10 +35,12 @@
  
 
 }
-.right .img {
+.right .img-super {
     max-width: 90%;
+    border: 0.1em solid #caaaaa;
+    border-radius: 5%;
     position:relative;
-    top: -65px;
+    top: -70px;
     left: -90px;
 
 
@@ -70,7 +72,7 @@ animation: typing 2s steps(18), blink .4s infinite step-end alternate;
 overflow:hidden;
 }
 @media screen and (max-width:740px)  {
-    .right .img {
+    .right .img-super {
       position: relative;
       left:2px;
       top: -90px;
