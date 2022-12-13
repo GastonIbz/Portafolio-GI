@@ -1,7 +1,7 @@
 import "./AboutContentStyles.css";
 
 import React from 'react'
-import asd from "../assets/About/asd.png";
+import Superhero from "../assets/About/Superhero.png";
 
 
 const AboutContent = () => {
@@ -21,7 +21,7 @@ const AboutContent = () => {
 <div className="right">
     <div className="img-container">
         <div className="img-stack top">
-            <img src={asd} className="img" alt="true"/>
+            <img src={Superhero} className="img-super" alt="true"/>
         </div>
       
     </div>
