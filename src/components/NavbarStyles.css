@@ -9,7 +9,7 @@
     z-index: 10;
     }
     .header-bg {
-        background-color: #07080a;
+        background-color: #000000;
         transition: 0.5s;
     }
     
@@ -36,7 +36,7 @@
             align-items: center;
             width: 100%;
             height: 100vh;
-            background-color:  #0c0d11 ;
+            background-color:  #000000ec ;
             position: absolute;
             top:0;
             left:-100%;

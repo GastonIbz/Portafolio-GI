@@ -1,13 +1,13 @@
 import "./AboutContentStyles.css";
 
 import React from 'react'
-import Superhero from "../assets/About/Superhero.png";
+import hisoka from "../assets/About/hisoka.png";
 
 
 const AboutContent = () => {
   return <div className="about">
 <div className="left">
-    <h1> 🕹️ </h1>
+    <h1> ♢ </h1>
     
     <br/>
  <p className="Maquinaescribir">Acerca de Gastón:</p>
@@ -21,7 +21,7 @@ const AboutContent = () => {
 <div className="right">
     <div className="img-container">
         <div className="img-stack top">
-            <img src={Superhero} className="img-super" alt="true"/>
+            <img src={hisoka} className="img-super" alt="true"/>
         </div>
       
     </div>

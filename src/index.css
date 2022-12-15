@@ -9,7 +9,7 @@ font-family: 'Yeseva One', cursive;
 }
 
 body {
-  background-color: #03070cfb;
+  background-color: #000000fb;
 
 }
 
@@ -43,7 +43,7 @@ letter-spacing: 0.5px;
 .btn:hover{
   background: transparent;
   color:#FAF5F4;
-  transition: 7ms;
+  transition: 5ms;
 
 }
 .btn-light:hover{
